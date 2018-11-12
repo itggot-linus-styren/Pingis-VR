@@ -1,0 +1,226 @@
+11/10/2018 8:58:28 PM
+ 
+Log
+I HIT IT!
+UnityEngine.Debug:Log(Object)
+PingisAgent:AgentAction(Single[], String) (at Assets/PingisAgent.cs:45)
+MLAgents.Agent:AgentStep() (at Assets/ML-Agents/Scripts/Agent.cs:965)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:588)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:610)
+
+Log
+I HIT IT!
+UnityEngine.Debug:Log(Object)
+PingisAgent:AgentAction(Single[], String) (at Assets/PingisAgent.cs:45)
+MLAgents.Agent:AgentStep() (at Assets/ML-Agents/Scripts/Agent.cs:965)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:588)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:610)
+
+Log
+I HIT IT!
+UnityEngine.Debug:Log(Object)
+PingisAgent:AgentAction(Single[], String) (at Assets/PingisAgent.cs:45)
+MLAgents.Agent:AgentStep() (at Assets/ML-Agents/Scripts/Agent.cs:965)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:588)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:610)
+
+Log
+I HIT IT!
+UnityEngine.Debug:Log(Object)
+PingisAgent:AgentAction(Single[], String) (at Assets/PingisAgent.cs:45)
+MLAgents.Agent:AgentStep() (at Assets/ML-Agents/Scripts/Agent.cs:965)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:588)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:610)
+
+Log
+I HIT IT!
+UnityEngine.Debug:Log(Object)
+PingisAgent:AgentAction(Single[], String) (at Assets/PingisAgent.cs:45)
+MLAgents.Agent:AgentStep() (at Assets/ML-Agents/Scripts/Agent.cs:965)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:588)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:610)
+
+Log
+I HIT IT!
+UnityEngine.Debug:Log(Object)
+PingisAgent:AgentAction(Single[], String) (at Assets/PingisAgent.cs:45)
+MLAgents.Agent:AgentStep() (at Assets/ML-Agents/Scripts/Agent.cs:965)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:588)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:610)
+
+Log
+I HIT IT!
+UnityEngine.Debug:Log(Object)
+PingisAgent:AgentAction(Single[], String) (at Assets/PingisAgent.cs:45)
+MLAgents.Agent:AgentStep() (at Assets/ML-Agents/Scripts/Agent.cs:965)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:588)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:610)
+
+Log
+I HIT IT!
+UnityEngine.Debug:Log(Object)
+PingisAgent:AgentAction(Single[], String) (at Assets/PingisAgent.cs:45)
+MLAgents.Agent:AgentStep() (at Assets/ML-Agents/Scripts/Agent.cs:965)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:588)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:610)
+
+Log
+I HIT IT!
+UnityEngine.Debug:Log(Object)
+PingisAgent:AgentAction(Single[], String) (at Assets/PingisAgent.cs:45)
+MLAgents.Agent:AgentStep() (at Assets/ML-Agents/Scripts/Agent.cs:965)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:588)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:610)
+
+Log
+I HIT IT!
+UnityEngine.Debug:Log(Object)
+PingisAgent:AgentAction(Single[], String) (at Assets/PingisAgent.cs:45)
+MLAgents.Agent:AgentStep() (at Assets/ML-Agents/Scripts/Agent.cs:965)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:588)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:610)
+
+Log
+I HIT IT!
+UnityEngine.Debug:Log(Object)
+PingisAgent:AgentAction(Single[], String) (at Assets/PingisAgent.cs:45)
+MLAgents.Agent:AgentStep() (at Assets/ML-Agents/Scripts/Agent.cs:965)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:588)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:610)
+
+Log
+I HIT IT!
+UnityEngine.Debug:Log(Object)
+PingisAgent:AgentAction(Single[], String) (at Assets/PingisAgent.cs:45)
+MLAgents.Agent:AgentStep() (at Assets/ML-Agents/Scripts/Agent.cs:965)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:588)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:610)
+
+Log
+I HIT IT!
+UnityEngine.Debug:Log(Object)
+PingisAgent:AgentAction(Single[], String) (at Assets/PingisAgent.cs:45)
+MLAgents.Agent:AgentStep() (at Assets/ML-Agents/Scripts/Agent.cs:965)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:588)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:610)
+
+Log
+I HIT IT!
+UnityEngine.Debug:Log(Object)
+PingisAgent:AgentAction(Single[], String) (at Assets/PingisAgent.cs:45)
+MLAgents.Agent:AgentStep() (at Assets/ML-Agents/Scripts/Agent.cs:965)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:588)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:610)
+
+Log
+I HIT IT!
+UnityEngine.Debug:Log(Object)
+PingisAgent:AgentAction(Single[], String) (at Assets/PingisAgent.cs:45)
+MLAgents.Agent:AgentStep() (at Assets/ML-Agents/Scripts/Agent.cs:965)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:588)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:610)
+
+Log
+I HIT IT!
+UnityEngine.Debug:Log(Object)
+PingisAgent:AgentAction(Single[], String) (at Assets/PingisAgent.cs:45)
+MLAgents.Agent:AgentStep() (at Assets/ML-Agents/Scripts/Agent.cs:965)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:588)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:610)
+
+Log
+I HIT IT!
+UnityEngine.Debug:Log(Object)
+PingisAgent:AgentAction(Single[], String) (at Assets/PingisAgent.cs:45)
+MLAgents.Agent:AgentStep() (at Assets/ML-Agents/Scripts/Agent.cs:965)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:588)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:610)
+
+Log
+I HIT IT!
+UnityEngine.Debug:Log(Object)
+PingisAgent:AgentAction(Single[], String) (at Assets/PingisAgent.cs:45)
+MLAgents.Agent:AgentStep() (at Assets/ML-Agents/Scripts/Agent.cs:965)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:588)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:610)
+
+Log
+I HIT IT!
+UnityEngine.Debug:Log(Object)
+PingisAgent:AgentAction(Single[], String) (at Assets/PingisAgent.cs:45)
+MLAgents.Agent:AgentStep() (at Assets/ML-Agents/Scripts/Agent.cs:965)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:588)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:610)
+
+Log
+I HIT IT!
+UnityEngine.Debug:Log(Object)
+PingisAgent:AgentAction(Single[], String) (at Assets/PingisAgent.cs:45)
+MLAgents.Agent:AgentStep() (at Assets/ML-Agents/Scripts/Agent.cs:965)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:588)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:610)
+
+Log
+I HIT IT!
+UnityEngine.Debug:Log(Object)
+PingisAgent:AgentAction(Single[], String) (at Assets/PingisAgent.cs:45)
+MLAgents.Agent:AgentStep() (at Assets/ML-Agents/Scripts/Agent.cs:965)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:588)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:610)
+
+Log
+I HIT IT!
+UnityEngine.Debug:Log(Object)
+PingisAgent:AgentAction(Single[], String) (at Assets/PingisAgent.cs:45)
+MLAgents.Agent:AgentStep() (at Assets/ML-Agents/Scripts/Agent.cs:965)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:588)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:610)
+
+Log
+I HIT IT!
+UnityEngine.Debug:Log(Object)
+PingisAgent:AgentAction(Single[], String) (at Assets/PingisAgent.cs:45)
+MLAgents.Agent:AgentStep() (at Assets/ML-Agents/Scripts/Agent.cs:965)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:588)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:610)
+
+Log
+I HIT IT!
+UnityEngine.Debug:Log(Object)
+PingisAgent:AgentAction(Single[], String) (at Assets/PingisAgent.cs:45)
+MLAgents.Agent:AgentStep() (at Assets/ML-Agents/Scripts/Agent.cs:965)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:588)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:610)
+
+Log
+I HIT IT!
+UnityEngine.Debug:Log(Object)
+PingisAgent:AgentAction(Single[], String) (at Assets/PingisAgent.cs:45)
+MLAgents.Agent:AgentStep() (at Assets/ML-Agents/Scripts/Agent.cs:965)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:588)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:610)
+
+Log
+I HIT IT!
+UnityEngine.Debug:Log(Object)
+PingisAgent:AgentAction(Single[], String) (at Assets/PingisAgent.cs:45)
+MLAgents.Agent:AgentStep() (at Assets/ML-Agents/Scripts/Agent.cs:965)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:588)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:610)
+
+Log
+I HIT IT!
+UnityEngine.Debug:Log(Object)
+PingisAgent:AgentAction(Single[], String) (at Assets/PingisAgent.cs:45)
+MLAgents.Agent:AgentStep() (at Assets/ML-Agents/Scripts/Agent.cs:965)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:588)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:610)
+
+Log
+I HIT IT!
+UnityEngine.Debug:Log(Object)
+PingisAgent:AgentAction(Single[], String) (at Assets/PingisAgent.cs:45)
+MLAgents.Agent:AgentStep() (at Assets/ML-Agents/Scripts/Agent.cs:965)
+MLAgents.Academy:EnvironmentStep() (at Assets/ML-Agents/Scripts/Academy.cs:588)
+MLAgents.Academy:FixedUpdate() (at Assets/ML-Agents/Scripts/Academy.cs:610)
+
